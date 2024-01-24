@@ -25,5 +25,11 @@ else
 {
     availableTicket = TicketOnSale.Value;
     //Or CAST  = (int)TicketOnSale;
+
 }
+/* We can use the Null Coalescing Operator here instead of the
+ the if conditional Statement 
+ int availabeTickets  = TicketOnSale ?? 0;
+  */
+
 Console.WriteLine("Available Tickets = {0}",availableTicket);
