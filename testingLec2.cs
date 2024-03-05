@@ -92,3 +92,18 @@ static void Main(string[] args)
   Console.WriteLine();
 
 
+//EX#3  aRRAY sORT dECENDING AND ASCENIND USING aRRAY.sORT THEN .REVERSE
+    // Example array
+    int[] arr = new int[] { 123, 45, 8, 99, 7, 88, 321 };
+    
+    Array.Sort(arr);
+    Console.WriteLine(String.Join(", ", arr));
+    Array.Reverse(arr);
+    // Display sorted array, adding newline after each number
+    foreach (int num in arr)
+    {
+        Console.WriteLine(num); // Print each number on a new line
+    }
+    Console.WriteLine( String.Join(", ", arr ));
+    Console.WriteLine();
+}
