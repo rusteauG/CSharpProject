@@ -36,3 +36,12 @@ Console.WriteLine();
 
 string output = string.Join(", ", familyList);
 Console.Write(output);
+
+
+string familyNamesWithDelimiter = "";
+for (int i = 0; i < familyList.Count - 1; i++)
+{
+    familyNamesWithDelimiter += $"{familyList[i]},";
+}
+familyNamesWithDelimiter += familyList[familyList.Count - 1]; // Append the last item without a comma
+Console.WriteLine(familyNamesWithDelimiter);

@@ -59,3 +59,4 @@ namespace ConsoleNameSpace.Models
         public string LastName { get; set; }
     } 
 }
+ 
