@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\WarriorsApp\Warriors\obj\Debug\WarriorWars.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WarriorsApp\Warriors\obj\Debug\WarriorWars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WarriorsApp\Warriors\bin\Debug\Warriors.exe.config
+C:\Users\Admin\source\repos\WarriorsApp\Warriors\bin\Debug\Warriors.exe
+C:\Users\Admin\source\repos\WarriorsApp\Warriors\bin\Debug\Warriors.pdb
+C:\Users\Admin\source\repos\WarriorsApp\Warriors\obj\Debug\Warriors.exe
+C:\Users\Admin\source\repos\WarriorsApp\Warriors\obj\Debug\Warriors.pdb
